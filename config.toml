@@ -1,4 +1,4 @@
-base_url = "https://mywebsite.com"
+base_url = "https://krathul.github.io/"
 
 theme = "apollo"
 taxonomies = [{ name = "tags" }]
