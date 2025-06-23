@@ -1,0 +1,17 @@
+base_url = "https://mywebsite.com"
+
+theme = "apollo"
+taxonomies = [{ name = "tags" }]
+
+[extra]
+theme = "toggle"
+socials = [
+    { name = "email", url = "mailto:athulrajk3152@gmail.com", icon = "email" },
+    { name = "github", url = "https://github.com/krathul/", icon = "github" },
+    { name = "linkedin", url = "https://linkedin.com", icon = "linkedin"}
+]
+
+menu = [
+    { name = "/home", url = "/"},
+    { name = "/aboutme", url = "/about"},    
+]
