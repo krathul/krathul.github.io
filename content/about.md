@@ -32,10 +32,10 @@ it, and then leave it. Though some of the programming languages I have tried
 have remained with me, and I tend to use them for my projects like C, C++, Rust,
 Go and Python.
 
-I also work on open source contributions primarily in the KDE community
+I also work on open source projects primarily in the KDE community
 (though not so active at the moment) where I have worked on [KDE
 Frameworks(KF6)](https://develop.kde.org/products/frameworks/) and
 [Okular(Document Viewer)](https://okular.kde.org/en-gb/).
 
-Apart from that, I love playing football, watching movies (a lot),
+Apart from that, I love playing football, watching movies (a lot), playing video games,
 reading books, and travelling.

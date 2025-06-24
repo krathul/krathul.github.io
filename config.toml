@@ -8,7 +8,7 @@ theme = "toggle"
 socials = [
     { name = "email", url = "mailto:athulrajk3152@gmail.com", icon = "email" },
     { name = "github", url = "https://github.com/krathul/", icon = "github" },
-    { name = "linkedin", url = "https://linkedin.com", icon = "linkedin"}
+    { name = "linkedin", url = "https://www.linkedin.com/in/athulrajkollareth/", icon = "linkedin"}
 ]
 
 menu = [
